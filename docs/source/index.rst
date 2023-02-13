@@ -1,5 +1,10 @@
-Welcome to Lumache's documentation!
+OpenBIM Checker 
 ===================================
+
+1. Title
+--------
+OpenBIM Checker
+.. image:: ./Image/Software logos_Final_OpenBim icon.png
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
