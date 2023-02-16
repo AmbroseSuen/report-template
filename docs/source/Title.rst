@@ -2,4 +2,4 @@
 ========
 
 OpenBIM Checker
-.. image:: OpenBIM_Checker_Icon.png
+.. image:: source/OpenBIM_Checker_Icon.png
